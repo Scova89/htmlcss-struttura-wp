@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 60%;
+    margin: 0 auto;
+}
+
+
+/* header */
+
+.header-top{
+    height: 80px;
+    background-color: rgb(203, 113, 255);
+    margin-bottom: 20px;
+}
+
+.jumbo{
+    height: 300px;
+    background-color: rgb(255, 228, 139);
+    margin-bottom: 20px;
+}
